@@ -26,7 +26,7 @@ public class UsefulNMSUtil extends JavaPlugin
      * @param source
      * @return
      */
-    public static TNTPrimed spawnSourcedTNTPrimed(Location location, LivingEntity source)
+    public TNTPrimed spawnSourcedTNTPrimed(Location location, LivingEntity source)
     {
         CraftServer craftServer = ((CraftServer) Bukkit.getServer());
         CraftWorld craftWorld = (CraftWorld)location.getWorld();
