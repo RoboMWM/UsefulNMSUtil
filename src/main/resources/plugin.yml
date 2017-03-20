@@ -1,0 +1,5 @@
+name: MountainDewritoes
+version: ${project.version}
+website: https://github.com/RoboMWM/UsefulNMSUtil
+author: RoboMWM
+main: me.robomwm.usefulnmsutil.UsefulNMSUtil
