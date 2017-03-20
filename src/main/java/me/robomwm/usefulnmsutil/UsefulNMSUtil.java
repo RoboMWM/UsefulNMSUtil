@@ -11,13 +11,14 @@ import org.bukkit.craftbukkit.v1_11_R1.entity.CraftLivingEntity;
 import org.bukkit.entity.LivingEntity;
 import org.bukkit.entity.TNTPrimed;
 import org.bukkit.event.entity.CreatureSpawnEvent;
+import org.bukkit.plugin.java.JavaPlugin;
 
 /**
  * Created on 3/20/2017.
  *
  * @author RoboMWM
  */
-public class UsefulNMSUtil
+public class UsefulNMSUtil extends JavaPlugin
 {
     /**
      * @implNote Uses NMS - thus is version dependent!
